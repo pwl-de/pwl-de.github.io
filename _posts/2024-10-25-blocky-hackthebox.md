@@ -1,6 +1,6 @@
 ---
 title: Blocky @ HackTheBox
-date: 2024-10-25 13:50:00
+date: 2024-10-25 13:50:00 +0000
 categories: [CTF, HackTheBox]
 tags: [hackthebox, misconfiguration,  hard-coded_credentials, java, web-application]     # TAG names should always be lowercase
 ---
